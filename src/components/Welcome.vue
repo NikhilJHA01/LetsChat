@@ -48,5 +48,8 @@ export default {
   label {
     font-size: 1.2rem;
   }
+  input{
+    text-align:center;
+  }
 }
 </style>
